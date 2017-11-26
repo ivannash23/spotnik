@@ -34,6 +34,7 @@ gem "react-rails"
 
 gem 'carrierwave', '~> 0.10.0'
 gem 'mini_magick', '~> 4.3'
+gem 'devise', '~> 4.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development

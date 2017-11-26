@@ -12,7 +12,7 @@ Ruby -v 2.3.3
 CarrierWave
 MiniMagick
 React
-
+Devise
 
 * Configuration
 
