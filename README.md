@@ -5,9 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Ruby -v 2.3.3
 
 * System dependencies
+
+CarrierWave
+MiniMagick
+React
+
 
 * Configuration
 
